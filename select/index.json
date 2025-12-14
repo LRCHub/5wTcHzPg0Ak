@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ぼくらの16bit戦争",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2025-12-14T15:01:40.948354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/01_ぼくらの16bit戦争_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 (KRAD MATRiX Ver.)",
+      "artist": "sasakure.UK feat. kradness",
+      "has_synced": false,
+      "path": "select/02_ぼくらの16bit戦争_(KRAD_MATRiX_Ver.)_sasakure.UK_feat._kradness.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争",
+      "artist": "sasakure.UK feat. kradness",
+      "has_synced": false,
+      "path": "select/03_ぼくらの16bit戦争_sasakure.UK_feat._kradness.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 (KRAD MATRiX Ver.) feat. sasakure.UK",
+      "artist": "kradness",
+      "has_synced": false,
+      "path": "select/04_ぼくらの16bit戦争_(KRAD_MATRiX_Ver.)_feat._sasakure.UK_kradness.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 (KRAD MATRiX Ver.)",
+      "artist": "kradness",
+      "has_synced": false,
+      "path": "select/05_ぼくらの16bit戦争_(KRAD_MATRiX_Ver.)_kradness.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 (KRAD MATRiX Ver.) feat. sasakure.UK",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/06_ぼくらの16bit戦争_(KRAD_MATRiX_Ver.)_feat._sasakure.UK_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 (KRAD MATRiX Ver.)",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/07_ぼくらの16bit戦争_(KRAD_MATRiX_Ver.)_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争",
+      "artist": "sasakure.UK feat.GUMI",
+      "has_synced": true,
+      "path": "select/08_ぼくらの16bit戦争_sasakure.UK_feat.GUMI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 - Remastered",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/09_ぼくらの16bit戦争_-_Remastered_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 (KRAD MATRiX Ver.) feat. kradness",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/10_ぼくらの16bit戦争_(KRAD_MATRiX_Ver.)_feat._kradness_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/11_ぼくらの16bit戦争_VA.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争",
+      "artist": "GUMI",
+      "has_synced": false,
+      "path": "select/12_ぼくらの16bit戦争_GUMI.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 (feat. GUMI) (Remastered)",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/13_ぼくらの16bit戦争_(feat._GUMI)_(Remastered)_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 - Remastered",
+      "artist": "sasakure.UK, GUMI",
+      "has_synced": true,
+      "path": "select/14_ぼくらの16bit戦争_-_Remastered_sasakure.UK,_GUMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくらの16bit戦争",
+      "artist": "GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくらの16bit戦争_GUMI.txt"
+    }
+  ]
+}
